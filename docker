@@ -1,9 +1,0 @@
-docker swarm join-token [OPTIONS] (worker|manager)
-
-#concepts
-bind mount
-volume
-layers instruction
-
-Dockerfile reference
-Docker image consist of read-only layers each of which represents a Dockerfile instruction
